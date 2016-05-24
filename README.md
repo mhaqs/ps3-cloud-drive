@@ -28,4 +28,4 @@ Portlibs required to compile:
 - zlib script execution fix introduced in last commit
 
 
-For usage see: http://blog.tabinda.net/playstation-3/playstation-3-cloud-drive/
+For usage see: http://www.tabinda.net/posts/playstation-3-cloud-drive/
